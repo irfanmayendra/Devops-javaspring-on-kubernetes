@@ -7,7 +7,7 @@ on:
 env:
   RESOURCEGROUPNAME: "Devops-javaspring-on-kubernetes-rg"
   LOCATION: "East US"
-  SUBSCRIPTIONID: "15414ee5-8542-4068-8fae-3de6600dc8db"
+  SUBSCRIPTIONID: "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
   IMAGENAME: "devopsjavaspringonkubernetes103a"
   REGISTRYSKU: "Standard"
   REGISTRYNAME: "devopsjavaspringonkubernetesacr"
